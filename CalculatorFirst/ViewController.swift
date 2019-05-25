@@ -99,8 +99,6 @@ class ViewController: UIViewController {
                 }
             }
         }
-        print(curruntVal)
-        print(lastVal)
     }
 }
 
